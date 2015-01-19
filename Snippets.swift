@@ -11,6 +11,9 @@
 //  useful and helpful.  For more resources, please visit
 //  my website at http://www.thoughtsfromarobot.com
 //
+//  My hope is that you learn from these examples and put them to use
+//
+//
 
 import Foundation
 import UIKit
